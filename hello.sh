@@ -1,4 +1,4 @@
 #!/bin/bash
 clear;
-echo "Hello Word";
+echo "HI NASI";
 exit;
